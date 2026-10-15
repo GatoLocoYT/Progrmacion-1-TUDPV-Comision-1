@@ -4,7 +4,7 @@ public class ChunLi : Luchador
 {
     private const int CostoKikoken = 25;
 
-    public Ryu(string nombre, int barraSalud, int barraKi)
+    public ChunLi(string nombre, int barraSalud, int barraKi)
         : base(nombre, barraSalud, barraKi)
     {
     }
